@@ -15,5 +15,5 @@ public class Config {
     public static final String SHARED_PREF = "ah_firebase";
     /*Firebase Push Notifications*/
 
-    public static final String channelId = "Android1.9Dev";//AndroidTest//Android1.19
+    public static final String channelId = "AndroidDev";//AndroidTest//Android1.19
 }
